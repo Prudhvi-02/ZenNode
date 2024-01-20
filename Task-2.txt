@@ -1,32 +1,34 @@
-Why do you like to join as a Software developer?
+1. Why do you like to join as a Software developer?
 I am passionate about software development because it combines my love for problem-solving and creativity. The dynamic nature of the field and the constant evolution of technologies excite me, and I find fulfilment in staying on the cutting edge.
 
-List top 3 soft-wares / tools that inspire you. Why do these tools inspire you?
-Java, JavaScript, SQL
-Java:
-I find Java inspiring due to its platform independence and versatility. The 'write once, run anywhere' philosophy allows me to develop applications that can seamlessly run on various platforms. Java's robustness, object-oriented nature, and extensive libraries make it an excellent choice for building scalable and maintainable software.
-JavaScript:
-JavaScript inspires me because of its role as the backbone of web development. As a client-side scripting language, it enables the creation of dynamic and interactive user interfaces. The ability to run in web browsers makes JavaScript essential for modern web development. Its asynchronous capabilities, supported by frameworks like Node.js, facilitate server-side development as well. I appreciate the vibrant ecosystem of libraries and frameworks like React and Angular, which empower developers to build responsive and feature-rich applications.
-SQL:
-SQL inspires me with its simplicity and effectiveness in managing and querying relational databases. The declarative nature of SQL allows me to focus on specifying the desired outcome rather than the steps to achieve it. This language is integral to data-driven applications, enabling efficient data retrieval, manipulation, and management.
 
-List top 3 organisations you like to join in your career & why you like these organisations.
-EY (Ernst & Young):
+2. List top 3 soft-wares / tools that inspire you. Why do these tools inspire you?
+JavaScript, GitHub, Python
+i) JavaScript:
+JavaScript inspires me because of its role as the backbone of web development. As a client-side scripting language, it enables the creation of dynamic and interactive user interfaces. The ability to run in web browsers makes JavaScript essential for modern web development. Its asynchronous capabilities, supported by frameworks like Node.js, facilitate server-side development as well. I appreciate the vibrant ecosystem of libraries and frameworks like React and Angular, which empower developers to build responsive and feature-rich applications.
+ii) GitHub:
+GitHub is a web-based platform for version control using Git. It has revolutionized collaborative software development by providing a centralized hub for code repositories, collaboration, and project management. GitHub's impact on the open-source community is immense, fostering collaboration among developers globally.
+iii) Python: 
+Python is a versatile, high-level programming language that has gained widespread adoption across various domains, including web development, data science, machine learning, and more. Its readability, simplicity, and extensive libraries make it a favorite among developers. Python's community-driven development model, which encourages collaboration and inclusivity, has played a crucial role in its success.
+
+
+3. List top 3 organisations you like to join in your career & why you like these organisations.
+i) EY (Ernst & Young):
 EY stands out to me for its global reputation as a leading professional services firm. I am drawn to EY because of its commitment to fostering an inclusive and collaborative work environment. The emphasis on diversity, innovation, and integrity aligns closely with my own values. EY's focus on providing impactful solutions for its clients, coupled with its dedication to continuous learning and development, is inspiring.
-Cisco:
+ii) Cisco:
 Cisco's role as a global technology leader in networking solutions makes it a compelling organization for me. I am excited about the prospect of contributing to a company that plays a pivotal role in shaping the future of networking. Cisco's commitment to innovation is evident in its development of cutting-edge technologies and solutions.
-Tesla:
+iii) Tesla:
 I am inspired by Tesla's groundbreaking work in sustainable energy and transportation. Tesla's mission to accelerate the world's transition to sustainable energy is aligned with my personal commitment to environmental responsibility. I am eager to be part of a company that is driving innovation in electric vehicles, solar energy, and energy storage.
 
-How you position yourself in this industry after 2 years.
+
+4. How do you position yourself in this industry after 2 years?
 After two years in the industry, my goal is to position myself as a highly skilled and versatile professional who contributes meaningfully to the success of the organization.Over the next two years, I plan to pursue additional certifications, attend industry conferences, and engage in relevant training to further enhance my skill set. Ultimately, my goal is not only to advance my individual career but also to contribute to the growth and success of the teams and organizations I am a part of.
 
-List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
-LOAN APPROVAL PREDICTION USING MACHINE LEARNING:
+
+5. List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+i) LOAN APPROVAL PREDICTION USING MACHINE LEARNING:
 Developed an ML Model to predict whether a loan will be approved or not, based on various parameters, such as Income, Credit score etc. Technologies used: Python, Machine learning, MatplotLib, Seaborn and HTML, CSS, JavaScript for the UI. 
-
-AN ECOMMERCE WEBSITE WITH ADVANCED FILTERING FEATURES 
+ii) AN ECOMMERCE WEBSITE WITH ADVANCED FILTERING FEATURES:
 In this Project, To provide a personalized experience to the user, a powerful search and filtering features are added. Technologies used: HTML, CSS, JavaScript and React.js. 
-
-AN EXPENSE TRACKER USING REACT.JS:
+iii) AN EXPENSE TRACKER USING REACT.JS:
 This project is a Fully Responsive website which keeps track of all the expenses of daily life and represents the data graphically. Technologies used: HTML, CSS, JavaScript and React.js, Local storage. 
